@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "geoviz"]
+	path = geoviz
+	url = https://github.com/neilcharles/geoviz
+	shallow = true
+	registered = true
